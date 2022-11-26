@@ -1,0 +1,32 @@
+body{
+    background-image:url("bg2.jpg");
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: cover;
+}
+
+#start-btn{
+    width: 40%;
+}
+
+#camera{
+    width: 360px;
+    height: 250px;
+    border: 1px solid brown;
+    border-radius: 11px;
+}
+
+#logo_img{
+    width: 100px;
+}
+
+hr{
+    width: 100%;
+    background-color: blue ;
+    color:blue;
+}
+#textbox{
+    width: 300px;
+    background-color: black;
+    color:white;
+}
